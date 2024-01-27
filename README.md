@@ -6,4 +6,4 @@ This project used Microsoft Azure which is an online computing platform that off
 
 The software allows me to create a virtual machine that mimics a clean installation of any Operating System and record user access. When I turn off the innate Firewall and put this vunerable system to the public I can record which bad actor tries to connect to my account. Malicious actors try to brute force into my Virtual machine by guessing the username and password. 
 
-(Pictures/Terminal picture.png) 
+![windows](Pictures/Terminal picture.png) 
