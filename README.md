@@ -16,4 +16,4 @@ The software allows me to create a virtual machine that mimics a clean installat
 
  ![Windows2](https://github.com/ShihabIslam789/Azure-Sentinel-lab/blob/main/PIctures/Attempted_Logins.png)
 
- The coplored maps show attacks with a legend telling how many. This is the goal of Azure is to analysis potential threats and dealing with them before it becomes  a problem.
+ The colored maps show attacks with a legend telling how many. This is the goal of Azure is to analysis potential threats and dealing with them before it becomes  a problem.
