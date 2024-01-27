@@ -7,3 +7,13 @@ This project used Microsoft Azure which is an online computing platform that off
 The software allows me to create a virtual machine that mimics a clean installation of any Operating System and record user access. When I turn off the innate Firewall and put this vunerable system to the public I can record which bad actor tries to connect to my account. Malicious actors try to brute force into my Virtual machine by guessing the username and password. 
 
  ![Windows](https://github.com/ShihabIslam789/Azure-Sentinel-lab/blob/main/PIctures/Terminal%20picture.png)
+
+ The malicious actors attempts are recorded to plaintext on the computer and this information contains their IP address and example Username and password.
+
+ ### Goal
+
+ My goal was to take this information and make it readable by someone who doesn't work in my field. SO my made a map of where the attacks come from based on the Log file I obtained and collected.
+
+ ![Windows2](https://github.com/ShihabIslam789/Azure-Sentinel-lab/blob/main/PIctures/Attempted_Logins.png)
+
+ The coplored maps show attacks with a legend telling how many. This is the goal of Azure is to analysis potential threats and dealing with them before it becomes  a problem.
