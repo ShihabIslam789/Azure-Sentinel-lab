@@ -8,14 +8,13 @@ The software allows me to create a virtual machine that mimics a clean installat
 
  ![Windows](https://github.com/ShihabIslam789/Azure-Sentinel-lab/blob/main/PIctures/Terminal%20picture.png)
 
- The malicious actors attempts are recorded to plaintext on the computer and this information contains their IP address and example Username and password. we can find this because I am using the geolocation API to pull this information.
- 
+ The malicious actors attempts are recorded to plaintext on the computer and this information contains their IP address and example Username and password. we can find this because I am using the geolocation API to pull this information, but an account is needed first.
+
  Link:(https://ipgeolocation.io/)
 
  ### Goal
 
- My goal was to take this information and make it readable by someone who doesn't work in my field. SO my made a map of where the attacks come from based on the Log file I obtained and collected.
+ My goal was to take this information and make it readable by someone who doesn't work in my field. So I made a map of where the attacks come from based on the Log file I obtained and collected.
+ The colored map show attacks with a legend telling how many. This is the goal of Azure is to analysis potential threats and dealing with them before it becomes  a problem.
 
  ![Windows2](https://github.com/ShihabIslam789/Azure-Sentinel-lab/blob/main/PIctures/Attempted_Logins.png)
-
- The colored maps show attacks with a legend telling how many. This is the goal of Azure is to analysis potential threats and dealing with them before it becomes  a problem.
