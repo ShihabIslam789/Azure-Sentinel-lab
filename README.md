@@ -18,3 +18,8 @@ The software allows me to create a virtual machine that mimics a clean installat
  The colored map show attacks with a legend telling how many. This is the goal of Azure is to analysis potential threats and dealing with them before it becomes  a problem.
 
  ![Windows2](https://github.com/ShihabIslam789/Azure-Sentinel-lab/blob/main/PIctures/Attempted_Logins.png)
+
+
+#### How To Be Better Protected(NIST framework)
+
+Going forward into the future all Computer users want to protect themselves from any attack possible. If external people get into the system then all the files are in jeopardy. Any user should protect themselves by making complex username and passwords for their account. the more complex it is for any to guess your credentials. Also double check that your firewall is on so it can detect any problems and will alert you if there is. Once someone gets into your account recovery maybe difficult. A factory default option maybe the only way to save the computer.     
